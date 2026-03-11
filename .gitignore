@@ -1,1 +1,7 @@
 /target
+*.png
+*.nes
+*.zip
+*.tar.gz
+*.tar
+*.gz
